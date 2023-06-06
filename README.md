@@ -25,4 +25,4 @@ Example of Running APP:
 
 ## Screenshots
 
-![App Screenshot]("https://i.ibb.co/fGnkm7N/UpVote.png")
+![App Screenshot](https://i.ibb.co/qFWNbwg/UpVote.png "UpVote!")
